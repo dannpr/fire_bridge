@@ -1,2 +1,2 @@
 # fire_bridge
-bridge entre massa et la BNB chain
+Bridge entre Massa et la BNB chain
